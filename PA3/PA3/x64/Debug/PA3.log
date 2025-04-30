@@ -1,0 +1,14 @@
+﻿  dmm.c
+  main.c
+C:\Users\Reidw\OneDrive\Desktop\CPTS-122\PA3\PA3\dmm.c(165,29): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char *[100]'
+C:\Users\Reidw\OneDrive\Desktop\CPTS-122\PA3\PA3\dmm.c(165,29): warning C4024: 'strcmp': different types for formal and actual parameter 1
+C:\Users\Reidw\OneDrive\Desktop\CPTS-122\PA3\PA3\dmm.c(173,25): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[100]'
+C:\Users\Reidw\OneDrive\Desktop\CPTS-122\PA3\PA3\dmm.c(173,25): warning C4024: 'strcpy': different types for formal and actual parameter 1
+C:\Users\Reidw\OneDrive\Desktop\CPTS-122\PA3\PA3\dmm.c(182,11): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'char **'
+C:\Users\Reidw\OneDrive\Desktop\CPTS-122\PA3\PA3\dmm.c(192,50): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char *[100]'
+C:\Users\Reidw\OneDrive\Desktop\CPTS-122\PA3\PA3\dmm.c(192,50): warning C4024: 'strcmp': different types for formal and actual parameter 2
+C:\Users\Reidw\OneDrive\Desktop\CPTS-122\PA3\PA3\dmm.c(636,22): warning C4013: 'time' undefined; assuming extern returning int
+C:\Users\Reidw\OneDrive\Desktop\CPTS-122\PA3\PA3\dmm.c(664,11): warning C4047: '<': 'int *' differs in levels of indirection from 'int'
+  test.c
+  Generating Code...
+  PA3.vcxproj -> C:\Users\Reidw\OneDrive\Desktop\CPTS-122\PA3\x64\Debug\PA3.exe

@@ -1,0 +1,11 @@
+﻿  dmm.c
+  main.c
+C:\Users\Reidw\OneDrive\Desktop\CPTS-122\PA2\PA2\dmm.c(164,29): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char *[100]'
+C:\Users\Reidw\OneDrive\Desktop\CPTS-122\PA2\PA2\dmm.c(164,29): warning C4024: 'strcmp': different types for formal and actual parameter 1
+C:\Users\Reidw\OneDrive\Desktop\CPTS-122\PA2\PA2\dmm.c(172,25): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[100]'
+C:\Users\Reidw\OneDrive\Desktop\CPTS-122\PA2\PA2\dmm.c(172,25): warning C4024: 'strcpy': different types for formal and actual parameter 1
+C:\Users\Reidw\OneDrive\Desktop\CPTS-122\PA2\PA2\dmm.c(181,11): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'char **'
+C:\Users\Reidw\OneDrive\Desktop\CPTS-122\PA2\PA2\dmm.c(191,50): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char *[100]'
+C:\Users\Reidw\OneDrive\Desktop\CPTS-122\PA2\PA2\dmm.c(191,50): warning C4024: 'strcmp': different types for formal and actual parameter 2
+  Generating Code...
+  PA2.vcxproj -> C:\Users\Reidw\OneDrive\Desktop\CPTS-122\PA2\x64\Debug\PA2.exe

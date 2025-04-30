@@ -1,0 +1,27 @@
+Monday Upper
+10000
+2/24/2025
+
+Tuesday Lower
+10000
+2/25/2025
+
+Wednesday Rest
+15000
+02/26/2025
+
+Thursday Push
+10000
+02/27/2025
+
+Friday Pull
+10000
+03/28/2025
+
+Saturday Lower
+10000
+03/01/2025
+
+Sunday Rest
+15000
+03/02/2025
