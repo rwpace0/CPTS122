@@ -1,0 +1,5 @@
+﻿  BSTNode.cpp
+  BSTNode.hpp
+  Generating Code...
+x64\Debug\BSTNode.obj : warning LNK4042: object specified more than once; extras ignored
+  PA6.vcxproj -> C:\Users\Reidw\OneDrive\Desktop\CPTS-122\PA6\x64\Debug\PA6.exe

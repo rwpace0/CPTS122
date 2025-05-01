@@ -1,0 +1,5 @@
+﻿  DataAnalysis.cpp
+  main.cpp
+  Generating Code...
+C:\Users\Reidw\OneDrive\Desktop\CPTS-122\PA8\PA8\DataAnalysis.cpp(29,1): warning C4715: 'DataAnalysis::openCSV': not all control paths return a value
+  PA8.vcxproj -> C:\Users\Reidw\OneDrive\Desktop\CPTS-122\PA8\x64\Debug\PA8.exe

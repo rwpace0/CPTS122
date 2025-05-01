@@ -1,0 +1,15 @@
+=== All Students Attendance Report ===
+Date: 2025-04-05
+
+Name                          ID        Absences  Most Recent Absence
+----------------------------------------------------------------------
+John"                         1111      0         None
+Sara"                         8147      0         None
+Timothy"                      1121      0         None
+Bruce"                        4478      0         None
+Hannah"                       2121      0         None
+Ella"                         5530      0         None
+Theo"                         7759      0         None
+Jane"                         1122      0         None
+Bruce"                        1222      0         None
+Kris"                         3255      0         None
